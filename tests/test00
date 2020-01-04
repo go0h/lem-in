@@ -1,0 +1,26 @@
+10
+#comment №1
+1         4 7
+##end
+#comment №2
+end 5 6
+8 7 7
+middle 10 10
+10 0 0
+3 6 9
+#comment №3
+##start
+start 12 12
+end-3
+3-1
+1-start
+start-middle
+end-middle
+10-8
+#comment №3.1
+8-middle
+end-8
+#comment №4
+3-10
+3-start
+3-end

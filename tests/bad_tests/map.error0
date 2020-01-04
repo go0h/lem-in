@@ -1,0 +1,28 @@
+20
+##start
+debut 23 3
+2 16 7
+#commentaire
+3 16 3
+4 16 3
+5 9 3
+6 1 5
+7 4 8
+##end
+fin 9 5
+#autre commentaire
+fin-4
+fin-6
+debut-3
+4-3
+#3-4
+5-2
+3-5
+4-2
+2-debut
+7-6
+7-2
+7-4
+#C'est la fin
+6-5
+#autre commentaire
